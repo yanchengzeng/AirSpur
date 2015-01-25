@@ -1,0 +1,15 @@
+Genre: Top Down Scrolling shooter
+
+Name: AirSpur
+
+Description: Players can control a spur-like aircraft and are able to shoot different bullets
+to kill enemies depending on their points. There are two levels in the game. For the first the 
+level, as long as the player is able to drive the aircraft past the target distance, the player 
+can advance to the next level. In level 2, the player will need to beat an ancient warrior 
+who is capable of spinning and shooting powerful bullets.
+
+Mechanics: The player can control the aircraft through arrow keys and shoot bullets with space key
+to kill various enemies. There are speed-up and other options during the voyage. 
+
+Modes: The aircraft will be upgraded in the more advanced level or in the first level if the player score high 
+enough before the first level is over. 
